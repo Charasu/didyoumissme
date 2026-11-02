@@ -1,0 +1,11 @@
+CHARASU — INVITO DIGITALE
+
+Apri index.html nel browser. Carica index.html, .nojekyll e assets sul tuo hosting o repository GitHub Pages.
+
+Font Google: Krona One e IBM Plex Serif. Richiedono connessione.
+
+Tre dettagli del dipinto quadrati e allineati. Tre ritagli fotografici di Lorenzo Testa nel carosello. L’esposizione fotografica è annunciata senza anticipazioni.
+
+I ritagli sono visualizzati tramite CSS; i file sorgente inclusi restano integri.
+
+La conferma apre WhatsApp con un messaggio da inviare. Data: 5 novembre 2026, ore 21:00. Il sito non è ancora pubblicato.
